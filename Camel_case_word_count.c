@@ -9,5 +9,5 @@ int main()
     {
         if(s[j]>='A' && s[j]<='Z')count++;
     }
-    cout<<count;
+    cout<<count++;
 }
